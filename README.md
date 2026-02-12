@@ -1,4 +1,3 @@
-# inInsurance_price_prediction
 # Insurance Price Prediction
 
 ## 📌 Overview
